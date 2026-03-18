@@ -1,71 +1,132 @@
-<h2 align="left">Hi 👋! My name is Luis Angel, and I'm a software engineer specializing in web development and the Java ecosystem. I apply best practices and continuously explore new tools to enhance my projects.</h2>
+<div align="center">
 
-###
- 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffe7,100:0d0d0d&height=200&section=header&text=Luis%20Angel%20Olvera&fontSize=50&fontColor=00ffe7&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%2526%20Web%20Ecosystem&descAlignY=58&descColor=ffffff&animation=twinkling" />
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=800&color=00FFE7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+Specialist+%E2%98%95;Clean+Code+Advocate+%E2%9C%A8;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Olvera5000&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Olvera5000&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" height="145" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Olvera5000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Olvera5000&no-frame=true&no-bg=true&row=1&column=4&margin-w=2&margin-h=1" height="150" alt="trophy graph"  />
+
+## ⟨ ABOUT ME ⟩
+
 </div>
 
-<img align="right" height="121" src="https://avatars.githubusercontent.com/u/63368543?s=400&u=4ff313439328bbbbabb5991362249cac216a27d3&v=4"  />
+```typescript
+const LuisAngel = {
+  alias      : "Olvera5000",
+  location   : "México 🇲🇽",
+  role       : "Software Engineer",
+  focus      : ["Web Development", "Java Ecosystem", "Clean Architecture"],
+  philosophy : "Write code that machines can execute and humans can understand.",
+  status     : "⚡ Building something awesome right now...",
+};
+```
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+<div align="center">
+
+## ⟨ TECH STACK ⟩
+
+### ◈ Backend
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+### ◈ Frontend
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ◈ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ◈ DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### ◈ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-%23009BDE.svg?style=for-the-badge&logo=servicenow&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://wa.me/qr/LK3QL36DJWHQN1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-  <a href="luisangelolveraweb@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/luis-angel-olvera-grande-885294196?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<div align="center">
+
+## ⟨ GITHUB STATS ⟩
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olvera5000&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&icon_color=00ffe7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olvera5000&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ffe7&text_color=ffffff"/>
+
 </div>
 
-###
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Olvera5000&theme=dark&hide_border=true&background=0d0d0d&stroke=00ffe7&ring=00ffe7&fire=ff6b35&currStreakLabel=00ffe7&sideLabels=ffffff&dates=888888"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Olvera5000&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⟨ ACTIVITY ⟩
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Olvera5000&bg_color=0d0d0d&color=00ffe7&line=00ffe7&point=ffffff&area=true&area_color=00ffe722&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⟨ CONNECT ⟩
+
+<a href="https://wa.me/TU_NUMERO" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:TU_CORREO@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Olvera5000&color=00ffe7&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<!-- Footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ffe7,100:0d0d0d&height=120&section=footer"/>
